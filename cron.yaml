@@ -1,0 +1,5 @@
+cron:
+- description: update aqicn info
+  url: /
+  schedule: every day TIME
+  timezone: TIMEZONE
