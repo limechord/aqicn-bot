@@ -1,7 +1,7 @@
 aqicn-bot
 =========
 
-a Google App Engine app that pushes AQI data from http://aqicn.org/ every day to your email
+a Google App Engine app that pushes AQI data from http://aqicn.org/ every day to your email INBOX
 
 
 written for my 11th Grade Biology project
